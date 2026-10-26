@@ -7,7 +7,7 @@
 需要 Node.js 22 或更新版本：
 
 ```powershell
-npm ci --ignore-scripts
+npm install --ignore-scripts
 npm run check
 npm test
 npm run test:browser
